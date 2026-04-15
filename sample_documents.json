@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "MNG_E101",
+    "name": "Noise Cancelling Headphones X5",
+    "category": "Electronics",
+    "brand": "TechPro",
+    "specs": {
+      "battery_life": "40 hours",
+      "bluetooth_version": "5.2",
+      "noise_cancellation": "Active",
+      "warranty": "2 years"
+    },
+    "price": 25000.0,
+    "stock": 150,
+    "ratings": [
+      {"user": "C001", "score": 5, "comment": "Amazing sound quality!"},
+      {"user": "C005", "score": 4, "comment": "Good, but a bit heavy."}
+    ],
+    "tags": ["audio", "wireless", "premium"]
+  },
+  {
+    "product_id": "MNG_C205",
+    "name": "Premium Cotton T-Shirt",
+    "category": "Clothing",
+    "material": "100% Organic Cotton",
+    "dimensions": {
+      "size": "L",
+      "color": "Midnight Blue",
+      "fit": "Slim Fit"
+    },
+    "care_instructions": "Machine wash cold, tumble dry low",
+    "price": 1200.0,
+    "stock": 500,
+    "seasonal": true
+  },
+  {
+    "product_id": "MNG_G309",
+    "name": "Extra Virgin Olive Oil",
+    "category": "Groceries",
+    "volume": "1 Liter",
+    "expiry_date": "2024-12-15",
+    "origin": "Greece",
+    "nutrition": {
+      "calories": 120,
+      "total_fat": "14g",
+      "cholesterol": "0mg"
+    },
+    "price": 3200.0,
+    "stock": 75,
+    "organic": true
+  }
+]
